@@ -1,0 +1,11 @@
+
+
+1. Create a maven project to calculate the area of a circle. (Area = 3.14 * radius * radius).
+   Write a test case for the same and run a maven test.	
+   Write a proper documentation for the above classes and methods and generate a 
+   documentation in HTML format.								(6)
+
+2. Using selenese commands automate the process of github login.				(3)
+
+3. Create a scrum board/trello board to keeping track of revision timetable of a student.       (3)
+   Consider the subjects as artifacts/user stories. 
