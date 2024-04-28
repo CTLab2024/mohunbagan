@@ -1,0 +1,12 @@
+
+
+1. Create a maven project to calculate the area of a rectangle. (Area = length * breadth).
+   Write a test case for the same and run a maven test.	
+   Write a proper documentation for the above classes and methods and generate a 
+   documentation in HTML format.								(6)
+
+2. Using selenese commands automate the process of github login.				(3)
+
+3. Create a scrum board/trello board keeping track of study timetable of a student.             (3)
+   Consider subjects as artifacts/userstories.
+
