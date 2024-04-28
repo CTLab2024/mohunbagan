@@ -1,0 +1,17 @@
+
+
+1. Create a burndown chart for a sprint of 3 weeks, having following details:		(6)
+	•	Feature 1 – 9 days of effort
+	•	Feature 2 – 6 days of effort
+	•	Feature 3 – 7 days of effort
+	•	Feature 4 – 4 days of effort
+	•	Feature 5 – 5 days of effort
+	•	Feature 6 – 6 days of effort
+	•	Feature 7 – 8 days of effort
+	Note: Distribute the work efforts across the sprint as per your choice.
+
+
+2. File 2 bugs for any web application of yur choice.					(3)
+
+3. Demonstrate how git VCS keeps a track of different versions of your file.       	(3)
+   
